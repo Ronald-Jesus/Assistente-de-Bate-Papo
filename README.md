@@ -1,4 +1,4 @@
-# 🎙️ Local-TTS — Assistente de Voz Local (Bypass Smart App Control)
+# 🎙️Assistente-de-Bate-Papo (Bypass Smart App Control)
 
 Um assistente de voz interativo que combina reconhecimento de fala, processamento de linguagem natural por meio de modelos locais (LLM) e síntese de voz offline em português.
 
